@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ParanaBanco.Cartoes.API/ParanaBanco.Cartoes.API.csproj" />
+  <Project Path="ParanaBanco.Cartoes.Application/ParanaBanco.Cartoes.Application.csproj" />
+  <Project Path="ParanaBanco.Cartoes.Domain/ParanaBanco.Cartoes.Domain.csproj" />
+  <Project Path="ParanaBanco.Cartoes.Infrastructure/ParanaBanco.Cartoes.Infrastructure.csproj" />
+  <Project Path="ParanaBanco.Cartoes.UnitTests/ParanaBanco.Cartoes.UnitTests.csproj" />
+</Solution>

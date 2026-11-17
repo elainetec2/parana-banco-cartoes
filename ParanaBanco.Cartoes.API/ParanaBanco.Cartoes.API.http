@@ -1,0 +1,6 @@
+@ParanaBanco.Cartoes.API_HostAddress = http://localhost:5224
+
+GET {{ParanaBanco.Cartoes.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
